@@ -40,7 +40,8 @@ and just provide clearer documentation about how this bit works.
 Dependencies
 ------------
 
-  - Drush master branch (until --no-recurse and autoloading are committed to 6.x)
+  - Drush master branch (until --no-recurse and autoloading are committed to
+    6.x), requires composer install.
 
 Usage
 -----
