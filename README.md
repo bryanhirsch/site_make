@@ -1,5 +1,5 @@
-Gotchas
--------
+Tips for including multiple make files in your build file
+----------------------------------------------------------
 
   If you're including multiple make files, all properties need keys. For example...
 
